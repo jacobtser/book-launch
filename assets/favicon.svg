@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="12" fill="#0C332B"/>
+  <rect x="4.5" y="4.5" width="55" height="55" rx="8.5" fill="none" stroke="#C79A3B" stroke-width="1"/>
+  <text x="20" y="43" font-family="Georgia, 'Times New Roman', serif" font-size="32" font-style="italic" fill="#F7F1E5" text-anchor="middle">5</text>
+  <path d="M30 38h12m-4.5-4.5L42 38l-4.5 4.5" fill="none" stroke="#C79A3B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="51" y="42" font-family="Georgia, 'Times New Roman', serif" font-size="13" font-style="italic" fill="#E4C987" text-anchor="middle">1st</text>
+</svg>
